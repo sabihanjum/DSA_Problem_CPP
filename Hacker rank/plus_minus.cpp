@@ -27,5 +27,4 @@ void plusMinus(vector<int> arr) {
     cout<<setprecision(6)<<x1<<endl;
     cout<<setprecision(6)<<x2<<endl;
     cout<<setprecision(6)<<x3<<endl;
- 
 }
